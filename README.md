@@ -1,18 +1,20 @@
-# About
-
-![main_photo](assets/rounded_main_400x400.png)
+![main_photo](assets/rounded_main_300x300.png)
 
 ## Георгий Поликарпов
 
 ------
 
-Backend-разработчик C# (.Net Core), Golang
+Backend-разработчик C# (.Net Core), Golang в компании "Программный регион" (г. Рязань).
 
-### Контакты:
+Занимаюсь разработкой сервисов внутренней системы email-маркетинга.
 
-Email: `georgy.polikarpov@mail.ru`
+------
 
-Telegram: `t.me/FullBoa`
+## Контакты:
+
+Email: georgy.polikarpov@mail.ru
+
+Telegram: t.me/FullBoa
 
 
 
