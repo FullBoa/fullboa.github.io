@@ -1,6 +1,6 @@
 # About
 
-![main_photo](assets/main_photo_300x300.jpg)
+![main_photo](assets/rounded_main_400x400.png)
 
 ## Георгий Поликарпов
 
