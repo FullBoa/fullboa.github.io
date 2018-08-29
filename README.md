@@ -12,7 +12,7 @@ Backend-разработчик C# (.Net Core), Golang в компании "Пр�
 
 ## Контакты:
 
-![Email](assets/email.png) georgy.polikarpov@mail.ru
+![Email](assets/envelope.png) georgy.polikarpov@mail.ru
 
 ![Telegram](assets/telegram.png) t.me/FullBoa
 
