@@ -14,7 +14,7 @@ Backend-разработчик C# (.Net Core), Golang в компании "Пр�
 
 ![Email](assets/envelope.png) georgy.polikarpov@mail.ru
 
-![Telegram](assets/telegram.png) t.me/FullBoa
+![Telegram](assets/telegram.png) [FullBoa](https://t.me/FullBoa)
 
 ![LinkedIn](assets/linkedin.png) [Georgy Polikarpov](linkedin.com/in/georgy-polikarpov/)
 
