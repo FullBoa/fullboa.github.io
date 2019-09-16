@@ -20,7 +20,7 @@ Backend-разработчик C# (.Net Core), Golang.
 
 ![Telegram](assets/telegram.png) [FullBoa](https://t.me/FullBoa)
 
-![LinkedIn](assets/linkedin.png) [Georgy Polikarpov](linkedin.com/in/georgy-polikarpov/)
+![LinkedIn](assets/linkedin.png) [Georgy Polikarpov](https://linkedin.com/in/georgy-polikarpov/)
 
 
 
